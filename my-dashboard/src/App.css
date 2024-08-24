@@ -1,0 +1,13 @@
+/* src/App.css */
+#wrapper {
+  display: flex;
+}
+
+#sidebar-wrapper {
+  width: 250px;
+}
+
+#page-content-wrapper {
+  width: 100%;
+  padding: 20px;
+}
